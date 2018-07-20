@@ -7,7 +7,7 @@ The main question treated in the blog is if remaining useful lifetime (RUL) of a
 https://rrighart.github.io/Gatu/
 
 **Script:**
-Gatu-script.ipynb
+The file *Gatu-script.ipynb* can be run in Jupyter notebook.
 
 Python 2 was used (Python 3 may be used but may produce a few errors).
 
